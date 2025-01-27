@@ -18,7 +18,7 @@
   
   Here are some of the technologies and tools I work with:
   <p align="center">
-    <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=html,css,javascript,java,c,cpp,python,mongodb,linux,git,docker,clion,idea,vscode,csharp,dotnet,postman&perline=7" /></a>
+    <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=html,css,javascript,java,c,cpp,python,mongodb,linux,git,docker,clion,idea,vscode,dotnet,postman&perline=7" /></a>
   </p>
   <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mina-H-William&theme=radical" /></p>
   
